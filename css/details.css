@@ -12,11 +12,16 @@ h2 {
   display:block;
 
 }
-ul {
+ul,ol {
   padding:20px 20px 20px 40px;
   list-style: square outside none;
   list-style-type: disc;
 }
+
+ol {
+  list-style: decimal;
+}
+
 span.heading{
   font-size: 1.2em;
 }
