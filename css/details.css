@@ -1,0 +1,25 @@
+body {
+  font-family: Raleway, sans-serif;
+  margin:0px;
+}
+h1 {
+  color:#335c8d;
+  font-size:1.8em;
+  margin-bottom:15px;
+}
+h2 {
+  line-height:1.5em;
+  display:block;
+
+}
+ul {
+  padding:20px 20px 20px 40px;
+  list-style: square outside none;
+  list-style-type: disc;
+}
+span.heading{
+  font-size: 1.2em;
+}
+p{
+  line-height: 2em;
+}

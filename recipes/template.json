@@ -1,0 +1,12 @@
+{
+	"name" : "",
+	"description" : "",
+	"source" : "",
+	"yield" : "",
+	"ingredients" : ["","",""],
+	"preparation" : ["","",""],
+	"notes" : ["","",""],
+	"keywords" : ["","",""],
+	"thumbnail" : "base64img",
+	"image" : "relative_path"
+}

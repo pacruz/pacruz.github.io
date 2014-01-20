@@ -1,0 +1,27 @@
+{
+  "name": "Orange Salad with Parsley and Olives",
+  "description": "Moroccan-Style Orange Salad",
+  "source": "The Essential New York Times Cookbook",
+  "yield": "4 servings",
+  "ingredients": [
+    "8 large seedless oranges",
+    "1 teaspoon paprika",
+    "1 clove garlic, minced",
+    "1 tablespoon olive oil",
+    "1 tablespoon good-quality white-wine or sherry vinegar",
+    "Freshly ground black pepper",
+    "1/2 cup Italian (flat-leaf) parsley, chopped",
+    "20 pitted black Kalamata olives"
+  ],
+  "preparation": [
+    "Peel the oranges, paring away all the exterior white pulp. Cut each orange into 8 wedges. Cut each wedge into 1-inch pieces. Set aside.",
+    "Place the cayenne, paprika, garlic, olive oil, and vinegar in a salad bowl. Add pepper to taste, and whisk to combine.",
+    "Add the oranges, parsley, and olives. Toss gently to blend. Serve at room temperature."
+  ],
+  "notes": [
+    ""
+  ],
+  "keywords" : ["winter", "christmas", "beverage", "dessert"],
+  "thumbnail": "base64img",
+  "image": "img/lrg/orange_salad.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lighter eggnog",
+  "description": "Ultimate Eggnog Trick",
+  "source": "Cooking Light December 2012",
+  "yield": "1 serving",
+  "ingredients": [
+    "1/2 cup of light ice cream",
+    "1 tablespoon bourbon",
+    "1/2 teaspoon brandy",
+    "Nutmeg",
+    "Cinnamon"
+  ],
+  "preparation": [
+    "Allow 1/2 cup of light ice cream to melt.",
+    "Stir in 1 tablespoon bourbon and 1/2 tablespoon brandy.",
+    "Sprinkle with nutmeg, and garnish with cinnamon"
+  ],
+  "notes": [
+    ""
+  ],
+  "keywords" : ["winter", "christmas", "beverage", "dessert"],
+  "thumbnail": "base64img",
+  "image": ""
+}
